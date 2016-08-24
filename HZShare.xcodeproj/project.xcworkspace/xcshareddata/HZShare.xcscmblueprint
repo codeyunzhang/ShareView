@@ -1,0 +1,39 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2CAE8BD2C02EB06A9645EF2AB19468A4ABC943EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c211727b-2948-fd4e-8287-8b43a611b6e4++3793" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BA226D032B64BF2E92120DAC5D65C286735A6EDD" : 0,
+    "2CAE8BD2C02EB06A9645EF2AB19468A4ABC943EE" : 0,
+    "c211727b-2948-fd4e-8287-8b43a611b6e4++3793" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A5F19A00-EEAA-4CB5-B815-695FB7CCF4BD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BA226D032B64BF2E92120DAC5D65C286735A6EDD" : "",
+    "2CAE8BD2C02EB06A9645EF2AB19468A4ABC943EE" : "FrameworkPackage\/",
+    "c211727b-2948-fd4e-8287-8b43a611b6e4++3793" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HZShare",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HZShare\/HZShare.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/172.16.101.203\/wangqinghe\/HZiOSFrameworks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CAE8BD2C02EB06A9645EF2AB19468A4ABC943EE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/172.16.101.203\/xiongchunlei\/react-native-demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA226D032B64BF2E92120DAC5D65C286735A6EDD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/172.16.101.201\/svn\/frontend",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c211727b-2948-fd4e-8287-8b43a611b6e4++3793"
+    }
+  ]
+}
